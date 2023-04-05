@@ -58,3 +58,21 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+#Custom ignored folders
+Assets/Graphics/
+TextMesh Pro
+Packages
+Library
+ProjectSettings
+Unity Store
+Unity Store Prefabs
+Mirror
+3rd Party
+UserSettings
+obj/Debug
+
+
+#Corresponing META files
+Assets/Graphics.meta
+Assets/TextMesh Pro.meta
+Assets/Library.meta
